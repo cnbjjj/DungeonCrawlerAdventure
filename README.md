@@ -32,7 +32,7 @@ Enter numbers to choose options for each event.
 
 You can download the executable to give it a try:
 
-[Download Dungeon Crawler Adventure](https://jiajia.dev)
+[Download Dungeon Crawler Adventure](https://github.com/cnbjjj/DungeonCrawlerAdventure/releases/download/untagged-c2934b31e749e7ea9a0c/DungeonCrawlerAdventure.exe)
 
 Good luck, and try to collect as many treasures as possible!
 
